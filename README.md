@@ -1,5 +1,5 @@
 # Arduino-GPS-Tracker
-This is an Arduino project that allows to display current GPS data into LCD screen.
+This is an Arduino project that allows to display current GPS data on the LCD screen.
 I used:
 <ul>
   <li>Arduino Nano board</li>
